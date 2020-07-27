@@ -1,4 +1,4 @@
 # estacionamento-automatizado
 Sistema automatizado para estacionamento com PHP e Ruby
 
-Arquivos disponibilizados para download
+Arquivos disponibilizados para download/clone/fork
